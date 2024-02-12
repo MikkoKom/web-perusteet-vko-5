@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100vh; /* Set the height of the body to the full viewport height */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+}
+
+#container {
+    text-align: center; /* Center the content horizontally */
+}
